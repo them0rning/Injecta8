@@ -1,0 +1,10 @@
+Package: com.yourname.camerainject
+Name: CamInject
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Injects a static image into all camera feeds. Configure in Settings.
+Maintainer: Your Name <you@example.com>
+Author: Your Name <you@example.com>
+Section: Tweaks
+Priority: optional
+Depends: mobilesubstrate | libhooker-jailed, preferenceloader, firmware (>= 15.0)
