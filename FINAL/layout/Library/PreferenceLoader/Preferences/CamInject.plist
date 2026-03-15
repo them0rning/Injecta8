@@ -1,0 +1,9 @@
+{
+    entry = {
+        bundle = CamInjectPrefs;
+        cell = PSLinkCell;
+        detail = CamInjectListController;
+        isController = true;
+        label = CamInject;
+    };
+}

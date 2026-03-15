@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir -p /var/mobile/Library/CameraInject
+chown mobile:mobile /var/mobile/Library/CameraInject
+chmod 755 /var/mobile/Library/CameraInject
+exit 0
